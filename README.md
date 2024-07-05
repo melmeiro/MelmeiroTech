@@ -108,6 +108,6 @@ Acknowledgements
 
 Contact
 
-If you have any questions or need further assistance, you can reach me at your-email@example.com.
+If you have any questions or need further assistance, please do not hesitate to reach me.
 
 Happy configuring!
