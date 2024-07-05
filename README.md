@@ -98,6 +98,7 @@ Kernel Parameters
 Contributing
 
 If you have improvements or additional configurations that you would like to share, feel free to submit a pull request. Please ensure that your contributions are well-documented and tested.
+
 License
 
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
