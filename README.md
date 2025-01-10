@@ -1,114 +1,38 @@
-My Linux System Settings
+# Welcome to My GitHub Portfolio!
 
-Welcome to my GitHub repository! This repository contains various system settings, configurations, and scripts that I use on my Linux machines. Feel free to explore, use, and modify these settings for your own needs.
-Contents
+Hello! 👋 I am a passionate and dedicated cybersecurity professional. My expertise spans various domains, including SIEM, threat hunting, incident response, malware analysis, and vulnerability management. I am committed to building secure environments and helping organizations defend against cyber threats.
 
-    /etc/systemd: Systemd service and timer unit files.
-    /etc/network: Network configurations.
-    /etc/ssh: SSH server configuration.
-    /etc/cron.d: Cron job definitions.
-    /etc/fstab: File system mount points.
-    /etc/profile.d: Custom environment variables and scripts.
-    /etc/sysctl.d: Kernel parameter configurations.
-    scripts/: Custom scripts for various tasks.
+## About Me
 
-Getting Started
-Prerequisites
+- 🎓 I am certified in [CompTIA Security+](#) and [MS SC-900](#), and currently working towards [AZ-500](#) and [SC-200](#).
+- 💼 I have hands-on experience in security operations, threat intelligence, and log analysis.
+- 🔍 I am always learning and improving my skills in cybersecurity, especially in the realm of proactive threat detection and analysis.
+- 🔒 I focus on automating security processes and integrating advanced defense strategies.
 
-To use these settings and configurations, you should have:
+## Projects
 
-    A Linux distribution installed (Debian, Ubuntu, Arch, Fedora, etc.).
-    Basic knowledge of Linux system administration.
-    Root or sudo access to your machine.
+### 1. [Project Name 1](#)
+A brief description of your project. Example: Automated threat detection using SIEM tools for real-time alerts and insights into suspicious activities.
 
-Installation
+### 2. [Project Name 2](#)
+A brief description of your project. Example: Created custom threat intelligence dashboards to visualize and track ongoing threats and incidents.
 
-    Clone the Repository:
+### 3. [Project Name 3](#)
+A brief description of your project. Example: Developed a malware analysis tool using Python to automatically dissect and analyze suspicious files.
 
-    sh
+## Skills & Tools
 
-git clone https://github.com/yourusername/my-linux-settings.git
-cd my-linux-settings
+- **Security Operations**: SIEM (Splunk, IBM QRadar), Crowdstrike Falcon, SentinelOne and Trend Micro Trend Vision One
+- **Threat Hunting & Intelligence**: MITRE ATT&CK and OWASP Top 10 proactive threat analysis
+- **Incident Response**: Forensics, Triage Analysis, Malware Analysis
+- **Vulnerability Management**: Scanning using Tenable and Acunetix, Patch Management, Risk Assessment
+- **Programming**: Bash Scripting, PowerShell, KQL Query
+- **Certifications**: Security+, SC-900, working on AZ-500 and SC-200
 
-Backup Your Current Settings:
-Before applying any new settings, make sure to back up your current configurations:
+## Contact
 
-sh
+Feel free to connect with me via:
 
-sudo cp -r /etc/systemd /etc/systemd.bak
-sudo cp -r /etc/network /etc/network.bak
-sudo cp /etc/ssh/sshd_config /etc/ssh/sshd_config.bak
-sudo cp /etc/fstab /etc/fstab.bak
-sudo cp -r /etc/profile.d /etc/profile.d.bak
-sudo cp -r /etc/sysctl.d /etc/sysctl.d.bak
+- Email: [melihgungor@proton.me](mailto:melihgungor@proton.me)
 
-Apply the Settings:
-Copy the desired configurations from this repository to your system. For example:
-
-sh
-
-sudo cp -r etc/systemd/* /etc/systemd/
-sudo cp -r etc/network/* /etc/network/
-sudo cp etc/ssh/sshd_config /etc/ssh/
-sudo cp etc/fstab /etc/
-sudo cp -r etc/profile.d/* /etc/profile.d/
-sudo cp -r etc/sysctl.d/* /etc/sysctl.d/
-sudo cp -r scripts/* /usr/local/bin/
-
-Reload Systemd and Restart Services:
-
-sh
-
-    sudo systemctl daemon-reload
-    sudo systemctl restart sshd
-    # Add any other services that need to be restarted here
-
-Customization
-
-Feel free to customize these settings according to your needs. Each configuration file contains comments and descriptions to help you understand the purpose and usage of the settings.
-Systemd
-
-    Service Units: Define and manage your own systemd services.
-    Timer Units: Automate tasks using systemd timers.
-
-Network
-
-    Configure network interfaces, static IP addresses, and routing.
-
-SSH
-
-    Secure your SSH server with custom configurations.
-
-Cron
-
-    Schedule periodic tasks using cron jobs.
-
-Filesystems
-
-    Manage filesystem mounts with /etc/fstab.
-
-Environment Variables
-
-    Set custom environment variables and scripts to be executed at login.
-
-Kernel Parameters
-
-    Tune kernel parameters for performance and security.
-
-Contributing
-
-If you have improvements or additional configurations that you would like to share, feel free to submit a pull request. Please ensure that your contributions are well-documented and tested.
-
-License
-
-This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
-Acknowledgements
-
-    Inspiration and guidance from the Linux community.
-    Various open-source projects and their contributors.
-
-Contact
-
-If you have any questions or need further assistance, please do not hesitate to reach me.
-
-Happy configuring!
+Thanks for visiting my portfolio!
