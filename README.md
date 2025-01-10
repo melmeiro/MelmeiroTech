@@ -9,17 +9,6 @@ Hello! 👋 I am a passionate cybersecurity professional. My expertise spans var
 - 🔍 I am always learning and improving my skills in cybersecurity, especially in the realm of proactive threat detection and analysis.
 - 🔒 I focus on automating security processes and integrating advanced defense strategies.
 
-## Projects
-
-### 1. [Project Name 1](#)
-A brief description of your project. Example: Automated threat detection using SIEM tools for real-time alerts and insights into suspicious activities.
-
-### 2. [Project Name 2](#)
-A brief description of your project. Example: Created custom threat intelligence dashboards to visualize and track ongoing threats and incidents.
-
-### 3. [Project Name 3](#)
-A brief description of your project. Example: Developed a malware analysis tool using Python to automatically dissect and analyze suspicious files.
-
 ## Skills & Tools
 
 - **Security Operations**: SIEM (Splunk, IBM QRadar), Crowdstrike Falcon, SentinelOne and Trend Micro Trend Vision One
