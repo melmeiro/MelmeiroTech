@@ -4,7 +4,7 @@ Description=Launch and run the Coolercontrol AppImage in the background
 After=network.target
 
 [Service]
-ExecStart=/home/melmeiro/Programs/CoolerControlD-x86_64.AppImage
+ExecStart=/home/$USER/Programs/CoolerControlD-x86_64.AppImage
 Restart=always
 User=root
 Group=root
