@@ -1,6 +1,6 @@
 # Welcome to My GitHub Portfolio!
 
-Hello! 👋 I am a passionate and dedicated cybersecurity professional. My expertise spans various domains, including SIEM, threat hunting, incident response, malware analysis, and vulnerability management. I am committed to building secure environments and helping organizations defend against cyber threats.
+Hello! 👋 I am a passionate cybersecurity professional. My expertise spans various domains, including SIEM, threat hunting, incident response, malware analysis, and vulnerability management. I am committed to building secure environments and helping organizations defend against cyber threats.
 
 ## About Me
 
