@@ -1,0 +1,27 @@
+# Sample SOC Tickets 🛡️
+
+## Introduction 📜
+
+Welcome to the **Sample SOC Jira Tickets** folder! In this repository, you'll find various sample tickets that I have written, representing common security events, incidents, and vulnerabilities typically managed by a Security Operations Center (SOC) team using Jira. These examples illustrate how security issues are tracked, categorized, and resolved within a ticketing system.
+
+The sample tickets cover common scenarios such as:
+
+- **Intrusion Detection** 🚨: Tickets created when suspicious or malicious activity is detected on the network or endpoints.
+- **Phishing Incidents** 🎣: Tickets that track suspected phishing attempts, including analysis and response.
+- **Vulnerability Management** 🛠️: Tickets generated for vulnerabilities found during scans or reported by monitoring tools.
+- **Malware Alerts** 🦠: Tickets created when malware or other malicious software is identified and flagged for investigation.
+
+### Ticket Details 🗂️
+
+Each sample ticket includes the following components:
+
+- **Ticket ID** 🔢: A unique identifier for the ticket.
+- **Description** 📋: A brief summary of the security issue.
+- **Priority** ⚠️: The severity level of the ticket (e.g., Low, Medium, High, Critical).
+- **Status** ⏳: The current state of the ticket (e.g., Open, In Progress, Resolved).
+- **Actions Taken** 📝: The steps I’ve taken to investigate and resolve the issue.
+- **Resolution** ✅: The final outcome or any remaining steps for closure.
+
+These tickets showcase how incidents are documented and processed, and can serve as a reference for establishing or refining your own SOC ticketing workflow in Jira. Whether you’re looking to create your own processes or improve existing ones, these samples will provide practical insights into how security incidents are managed in real-time.
+
+Feel free to clone or adapt these samples to fit your own needs! 🚀
