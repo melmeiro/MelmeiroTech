@@ -1,4 +1,3 @@
-#/home/melmeiro/.config/systemd/user/
 [Unit]
 Description=Silent Sound Service
 # Make Sure You Run at User Space
